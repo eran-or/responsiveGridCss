@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage":"https://eran-or.github.io/responsiveGridCss/",
   "eslintConfig": {
     "extends": "react-app"
   },
